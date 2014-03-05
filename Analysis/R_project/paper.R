@@ -41,16 +41,16 @@ attach(rocks)
 par(mar=c(5,4,4,1))
 
 ### Make histograms of collision time by origin and destination
-#source('MakeHist.R')
+source('MakeHist.R')
 
 ### Make small-grid histogram of Earth re-impact rates
-#source('MakeReimpact.R')
+source('MakeReimpact.R')
 
 ### Make table of total transfer numbers and rates
 source('MakeRatesTable.R')
 
 ### Make table of transfer timescales
-#source('MakeTimeTable.R')
+source('MakeTimeTable.R')
 
 ### Fit impact destination
 ##source('FitDest.R')
@@ -59,19 +59,19 @@ source('MakeRatesTable.R')
 ##source('FitTime.R')
 
 ### Make cumulative probability plots
-#source('MakeCprobs.R')
+source('MakeCprobs.R')
 
 ### Read moon sim results
-#source('ReadMoons.R')
+source('ReadMoons.R')
 
 ### Make tables of collision rates
-#source('MoonRateTable.R')
+source('MoonRateTable.R')
 
 ### Make tables of 4 Gyr totals
-#if (vers!=3) source('Make4GyrTables.R')
+if (vers!=3) source('Make4GyrTables.R')
 
 ### Make tables of collision rates
-#source('MoonRatioPlot.R')
+source('MoonRatioPlot.R')
 
 ### Examine collision rates compared to physical data
 source('PlanetRatioPlot.R')
