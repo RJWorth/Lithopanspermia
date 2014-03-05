@@ -1,0 +1,11 @@
+         Number Uncertainty
+Jupiter  533776         731
+Io           73           9
+Europa       36           6
+Ganymede     40           6
+Callisto      7           3
+
+          Number Uncertainty
+Saturn     27597         166
+Enceladus      2           1
+Titan          3           2

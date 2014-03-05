@@ -1,0 +1,29 @@
+        First Impact Peak
+Sun      1014611.600    9
+Mercury   482100.750    8
+Venus       8338.070    1
+Earth          0.303    1
+Mars      112688.800    3
+Jupiter  3852399.000    9
+Saturn   8008387.000    9
+Ejected   670965.060    8
+
+        First Impact Peak
+Sun      1737472.800  9.0
+Mercury  4949371.500  9.0
+Venus     456863.750  7.0
+Earth     281754.060  5.5
+Mars           0.575  1.0
+Jupiter  4831160.000  9.5
+Saturn            NA   NA
+Ejected  1570841.900  9.0
+
+        Earth Median Mars Median
+Sun            7.100        7.50
+Mercury        6.300        7.70
+Venus          1.700        5.80
+Earth          0.096        5.20
+Mars           4.700        0.21
+Jupiter        7.600        7.90
+Saturn         8.800          NA
+Ejected        6.600        7.50
